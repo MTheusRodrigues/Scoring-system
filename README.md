@@ -6,7 +6,7 @@
  
 </p>
 <hr>
-👨‍💻Technologies used 
+💻Tecnologias Utilizadas 
 <br>
 <p align="center">
 <img alt="NetBeans" src="./src/mapaprogsistm1/Apache NetBeans IDE 12.2.png">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
